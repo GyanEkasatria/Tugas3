@@ -1,0 +1,11 @@
+D:\Pemograman\Tugas3\Tugas3\bin\Debug\netcoreapp3.1\Tugas3.exe
+D:\Pemograman\Tugas3\Tugas3\bin\Debug\netcoreapp3.1\Tugas3.deps.json
+D:\Pemograman\Tugas3\Tugas3\bin\Debug\netcoreapp3.1\Tugas3.runtimeconfig.json
+D:\Pemograman\Tugas3\Tugas3\bin\Debug\netcoreapp3.1\Tugas3.runtimeconfig.dev.json
+D:\Pemograman\Tugas3\Tugas3\bin\Debug\netcoreapp3.1\Tugas3.dll
+D:\Pemograman\Tugas3\Tugas3\bin\Debug\netcoreapp3.1\Tugas3.pdb
+D:\Pemograman\Tugas3\Tugas3\obj\Debug\netcoreapp3.1\Tugas3.csprojAssemblyReference.cache
+D:\Pemograman\Tugas3\Tugas3\obj\Debug\netcoreapp3.1\Tugas3.AssemblyInfoInputs.cache
+D:\Pemograman\Tugas3\Tugas3\obj\Debug\netcoreapp3.1\Tugas3.AssemblyInfo.cs
+D:\Pemograman\Tugas3\Tugas3\obj\Debug\netcoreapp3.1\Tugas3.dll
+D:\Pemograman\Tugas3\Tugas3\obj\Debug\netcoreapp3.1\Tugas3.pdb
